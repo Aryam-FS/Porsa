@@ -13,6 +13,7 @@ Porsa is a free, open-source, and professional survey/questionnaire builder desi
     🎨 Glassmorphism UI	(Beautiful frosted glass design with animated gradient background)
     
     📱 Fully Responsive	Works perfectly on desktop, tablet, and mobile devices
+    
     🌙 Dark/Light Mode	(Toggle between themes with automatic preference saving)
     
     📊 SPSS Export	(Export responses as CSV with numeric codes for SPSS analysis)
@@ -131,13 +132,19 @@ Word Export (.doc)
 
 🛠️ Technical Details
 
-      Frontend	              HTML5, CSS3, Vanilla JavaScript
-      Storage	                Browser localStorage (no server required)
-      Offline                 Support	Service Worker for offline access
-      PWA	                    Installable as Progressive Web App
-      Size	                  ~50KB (single HTML file)
-      Dependencies	          None (zero external libraries)
-      Browser Support	        Chrome, Firefox, Safari, Edge
+      Frontend --> HTML5, CSS3, Vanilla JavaScript
+      
+      Storage --> Browser localStorage (no server required)
+      
+      Offline --> Support	Service Worker for offline access
+      
+      PWA --> Installable as Progressive Web App
+      
+      Size --> ~50KB (single HTML file)
+      
+      Dependencies --> None (zero external libraries)
+      
+      Browser Support --> Chrome, Firefox, Safari, Edge
 
 ------------------
 
@@ -190,8 +197,11 @@ Word Export (.doc)
 Contributions are welcome! Feel free to:
 
       Report bugs
+      
       Suggest new features
+      
       Submit pull requests
+      
       Translate to other languages
 
 ------------------
